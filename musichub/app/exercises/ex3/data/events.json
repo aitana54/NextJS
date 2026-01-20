@@ -1,0 +1,74 @@
+[
+  {
+    "id": "evt-001",
+    "title": "Charla sobre Inteligencia Artificial",
+    "category": "charla",
+    "location": "Auditorio Central",
+    "date": "2025-03-15 18:30",
+    "isFree": true
+  },
+  {
+    "id": "evt-002",
+    "title": "Taller de desarrollo web con React",
+    "category": "taller",
+    "location": "Sala de Innovación",
+    "date": "2025-03-20 16:00",
+    "isFree": false
+  },
+  {
+    "id": "evt-003",
+    "title": "Concierto de jazz en vivo",
+    "category": "concierto",
+    "location": "Teatro Municipal",
+    "date": "2025-04-05 21:00",
+    "isFree": false
+  },
+  {
+    "id": "evt-004",
+    "title": "Taller de fotografía urbana",
+    "category": "taller",
+    "location": "Centro Cultural Norte",
+    "date": "2025-04-12 10:00",
+    "isFree": true
+  },
+  {
+    "id": "evt-005",
+    "title": "Charla: Emprendimiento Digital",
+    "category": "charla",
+    "location": "Espacio Coworking Hub",
+    "date": "2025-04-18 19:00",
+    "isFree": true
+  },
+  {
+    "id": "evt-006",
+    "title": "Torneo futbol",
+    "category": "Partidos",
+    "location": "Campo de futbol 7",
+    "date": "2025-05-02 17:00",
+    "isFree": false
+  },
+  {
+    "id": "evt-007",
+    "title": "Taller de Escritura Creativa",
+    "category": "taller",
+    "location": "Biblioteca Central",
+    "date": "2025-05-10 11:30",
+    "isFree": true
+  },
+  {
+    "id": "evt-008",
+    "title": "Charla sobre Ciberseguridad",
+    "category": "charla",
+    "location": "Facultad de Ingeniería",
+    "date": "2025-05-22 17:00",
+    "isFree": false
+  },
+  {
+    "id": "evt-009",
+    "title": "Concierto acústico al aire libre",
+    "category": "concierto",
+    "location": "Parque Central",
+    "date": "2025-06-01 20:00",
+    "isFree": true
+  }
+]
