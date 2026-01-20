@@ -11,7 +11,7 @@ export default function LikeCounter( { title }) {
             <div>
                 <p className='mb-6 text-gray-600'>Thriller - Michael Jackson</p>
                 <button onClick={() => setLike(!like)}
-                    className='flex items-center justify-center gap-2 rounded-xl px-5 py-2 font-semibold transition-all duration-300'>
+                    className='flex items-center justify-center gap-2 rounded-xl px-5 py-2 font-semibold transition-all duration-300 text-purple-600'>
                     {like ? 'Me gusta' : 'No me gusta'}
                 </button>
             </div>
