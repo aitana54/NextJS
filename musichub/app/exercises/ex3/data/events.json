@@ -42,7 +42,7 @@
   {
     "id": "evt-006",
     "title": "Torneo futbol",
-    "category": "Partidos",
+    "category": "partido",
     "location": "Campo de futbol 7",
     "date": "2025-05-02 17:00",
     "isFree": false
