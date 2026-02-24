@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "name": "Luna",
+    "species": "Perro",
+    "age": 2,
+    "photo": "/img/luna.jpg"
+  },
+  {
+    "id": "p2",
+    "name": "Michi",
+    "species": "Gato",
+    "age": 4,
+    "photo": "/img/michi.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "Toby",
+    "species": "Perro",
+    "age": 1,
+    "photo": "/img/toby.jpg"
+  }
+]
