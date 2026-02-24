@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b1",
+    "title": "La Fundación",
+    "author": "Isaac Asimov",
+    "cover": "https://covers.openlibrary.org/b/id/14560069-L.jpg"
+  },
+  {
+    "id": "b2",
+    "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": "b3",
+    "title": "La guerra interminable",
+    "author": "Joe Haldeman",
+    "cover": "https://covers.openlibrary.org/b/id/13766788-L.jpg"
+  },
+  {
+    "id": "b4",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://covers.openlibrary.org/b/id/15131000-L.jpg"
+  },
+  {
+    "id": "b5",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "cover": "https://covers.openlibrary.org/b/id/15092781-L.jpg"
+  },
+  {
+    "id": "b6",
+    "title": "Un mundo feliz",
+    "author": "Aldous Huxley",
+    "cover": "https://covers.openlibrary.org/b/id/14847314-L.jpg"
+  }
+]
